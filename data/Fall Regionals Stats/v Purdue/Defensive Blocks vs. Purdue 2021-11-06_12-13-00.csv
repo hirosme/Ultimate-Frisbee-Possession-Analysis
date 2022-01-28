@@ -1,0 +1,7 @@
+Created,Point,Player,In own endzone?,In opponent's endzone?,Stall out?,Callahan?,Location X (0 -> 1 = left sideline -> right sideline),Location Y (0 -> 1 = back of opponent endzone -> back of own endzone)
+2021-11-23 12:17:41,2,Sam,0,0,0,0,0.5147929,0.57455266
+2021-11-23 12:19:46,2,Milan,0,0,0,0,0.21301775,0.6829026
+2021-11-23 12:25:32,4,Justin,0,0,0,0,0.60650885,0.4582505
+2021-11-23 12:30:08,7,Dale,0,0,0,0,0.7810651,0.5695825
+2021-11-23 12:44:33,14,Jared,0,0,0,0,0.12721893,0.5029821
+2021-11-23 12:57:08,18,Kevin,0,1,0,1,0.41715977,0.15904573
